@@ -1,0 +1,25 @@
+{
+  "name": "aff-error",
+  "version": "1.0.0",
+  "description": "Example for [purescript-aff issue #176](https://github.com/purescript-contrib/purescript-aff/issues/176)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BebeSparkelSparkel/aff-error.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BebeSparkelSparkel/aff-error/issues"
+  },
+  "homepage": "https://github.com/BebeSparkelSparkel/aff-error#readme",
+  "dependencies": {
+    "spago": "^0.9.0"
+  }
+}
